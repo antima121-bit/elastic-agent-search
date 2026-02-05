@@ -1,0 +1,322 @@
+[
+    {
+        "id": "prod_001",
+        "title": "UltraWarm Winter Hiking Jacket",
+        "description": "Premium insulated jacket designed for extreme cold weather hiking and mountaineering. Features waterproof Gore-Tex outer shell, down insulation, adjustable hood, and multiple pockets for gear storage.",
+        "category": "outdoor_clothing",
+        "brand": "MountainPeak",
+        "price": 299.99,
+        "rating": 4.8,
+        "tags": [
+            "winter",
+            "hiking",
+            "jacket",
+            "waterproof",
+            "insulated"
+        ]
+    },
+    {
+        "id": "prod_002",
+        "title": "ProDev Gaming Laptop",
+        "description": "High-performance laptop perfect for programming and gaming. Intel i7 processor, 16GB RAM, NVIDIA RTX 3060 graphics, 512GB SSD. Ideal for developers, content creators, and gamers.",
+        "category": "electronics",
+        "brand": "TechForce",
+        "price": 1299.99,
+        "rating": 4.6,
+        "tags": [
+            "laptop",
+            "gaming",
+            "programming",
+            "developer",
+            "rtx"
+        ]
+    },
+    {
+        "id": "prod_003",
+        "title": "Artisan Coffee Bean Sampler Box",
+        "description": "Curated selection of 6 premium single-origin coffee beans from around the world. Perfect gift for coffee enthusiasts and connoisseurs. Includes beans from Ethiopia, Colombia, Guatemala, and more.",
+        "category": "food_beverages",
+        "brand": "CoffeeCraft",
+        "price": 49.99,
+        "rating": 4.9,
+        "tags": [
+            "coffee",
+            "gift",
+            "artisan",
+            "beans",
+            "specialty"
+        ]
+    },
+    {
+        "id": "prod_004",
+        "title": "Budget LED Desk Lamp",
+        "description": "Affordable energy-efficient LED desk lamp with adjustable brightness and flexible gooseneck. Great for students, office workers, and reading. USB-powered for convenience.",
+        "category": "home_office",
+        "brand": "BrightLife",
+        "price": 24.99,
+        "rating": 4.3,
+        "tags": [
+            "lamp",
+            "desk",
+            "led",
+            "affordable",
+            "budget"
+        ]
+    },
+    {
+        "id": "prod_005",
+        "title": "Professional Chef's Knife Set",
+        "description": "Complete 8-piece German stainless steel knife set for professional and home chefs. Includes chef's knife, paring knife, bread knife, and more. Ergonomic handles and lifetime warranty.",
+        "category": "kitchen",
+        "brand": "CulinaryPro",
+        "price": 179.99,
+        "rating": 4.7,
+        "tags": [
+            "knife",
+            "kitchen",
+            "chef",
+            "cooking",
+            "professional"
+        ]
+    },
+    {
+        "id": "prod_006",
+        "title": "Wireless Bluetooth Headphones",
+        "description": "Premium noise-cancelling wireless headphones with 30-hour battery life. Superior sound quality, comfortable over-ear design, perfect for travel, work, and music lovers.",
+        "category": "electronics",
+        "brand": "SoundWave",
+        "price": 149.99,
+        "rating": 4.5,
+        "tags": [
+            "headphones",
+            "wireless",
+            "bluetooth",
+            "noise-cancelling",
+            "audio"
+        ]
+    },
+    {
+        "id": "prod_007",
+        "title": "Eco-Friendly Yoga Mat",
+        "description": "Sustainable natural rubber yoga mat with excellent grip and cushioning. Non-toxic, biodegradable, perfect for yoga, pilates, and fitness enthusiasts who care about the environment.",
+        "category": "fitness",
+        "brand": "GreenFlow",
+        "price": 59.99,
+        "rating": 4.6,
+        "tags": [
+            "yoga",
+            "mat",
+            "eco-friendly",
+            "fitness",
+            "sustainable"
+        ]
+    },
+    {
+        "id": "prod_008",
+        "title": "Smart Home Security Camera",
+        "description": "1080p Wi-Fi security camera with night vision, motion detection, and two-way audio. Mobile app control, cloud storage, perfect for home security and monitoring pets.",
+        "category": "smart_home",
+        "brand": "SecureVision",
+        "price": 79.99,
+        "rating": 4.4,
+        "tags": [
+            "security",
+            "camera",
+            "smart-home",
+            "wifi",
+            "surveillance"
+        ]
+    },
+    {
+        "id": "prod_009",
+        "title": "Leather Messenger Bag",
+        "description": "Vintage-style genuine leather messenger bag for professionals. Spacious compartments for laptop, documents, and essentials. Durable construction with adjustable shoulder strap.",
+        "category": "bags",
+        "brand": "UrbanCarry",
+        "price": 129.99,
+        "rating": 4.7,
+        "tags": [
+            "bag",
+            "leather",
+            "messenger",
+            "laptop",
+            "professional"
+        ]
+    },
+    {
+        "id": "prod_010",
+        "title": "Portable Power Bank 20000mAh",
+        "description": "High-capacity portable charger with fast charging support. Charge multiple devices simultaneously. Essential for travel, camping, and emergencies.",
+        "category": "electronics",
+        "brand": "PowerPlus",
+        "price": 39.99,
+        "rating": 4.5,
+        "tags": [
+            "power-bank",
+            "charger",
+            "portable",
+            "battery",
+            "travel"
+        ]
+    },
+    {
+        "id": "prod_011",
+        "title": "Organic Green Tea Collection",
+        "description": "Premium organic green tea variety pack with 5 different flavors. Health benefits include antioxidants, metabolism boost. Perfect for tea lovers and health-conscious individuals.",
+        "category": "food_beverages",
+        "brand": "TeaZen",
+        "price": 34.99,
+        "rating": 4.8,
+        "tags": [
+            "tea",
+            "green-tea",
+            "organic",
+            "healthy",
+            "antioxidants"
+        ]
+    },
+    {
+        "id": "prod_012",
+        "title": "Running Shoes - Trail Edition",
+        "description": "Durable trail running shoes with superior traction and ankle support. Waterproof membrane, breathable mesh, perfect for outdoor runners and hikers.",
+        "category": "footwear",
+        "brand": "RunPro",
+        "price": 119.99,
+        "rating": 4.6,
+        "tags": [
+            "shoes",
+            "running",
+            "trail",
+            "outdoor",
+            "waterproof"
+        ]
+    },
+    {
+        "id": "prod_013",
+        "title": "Mechanical Gaming Keyboard",
+        "description": "RGB backlit mechanical keyboard with Cherry MX switches. Programmable keys, anti-ghosting, perfect for gamers and programmers who demand precision.",
+        "category": "electronics",
+        "brand": "GameGear",
+        "price": 89.99,
+        "rating": 4.7,
+        "tags": [
+            "keyboard",
+            "mechanical",
+            "gaming",
+            "rgb",
+            "programming"
+        ]
+    },
+    {
+        "id": "prod_014",
+        "title": "Stainless Steel Water Bottle",
+        "description": "Insulated 32oz water bottle keeps drinks cold for 24 hours, hot for 12 hours. BPA-free, leak-proof, perfect for gym, office, and outdoor activities.",
+        "category": "drinkware",
+        "brand": "HydroFlow",
+        "price": 29.99,
+        "rating": 4.8,
+        "tags": [
+            "water-bottle",
+            "insulated",
+            "stainless-steel",
+            "hydration",
+            "eco-friendly"
+        ]
+    },
+    {
+        "id": "prod_015",
+        "title": "Digital Drawing Tablet",
+        "description": "Professional graphics tablet with pressure-sensitive pen. 10x6 inch active area, perfect for digital artists, designers, and photo editors.",
+        "category": "electronics",
+        "brand": "ArtTech",
+        "price": 199.99,
+        "rating": 4.5,
+        "tags": [
+            "tablet",
+            "drawing",
+            "graphics",
+            "art",
+            "design"
+        ]
+    },
+    {
+        "id": "prod_016",
+        "title": "Luxury Scented Candle Set",
+        "description": "Hand-poured soy wax candles with natural essential oils. Set of 3 in lavender, vanilla, and sandalwood. Perfect gift for relaxation and home ambiance.",
+        "category": "home_decor",
+        "brand": "AromaBliss",
+        "price": 44.99,
+        "rating": 4.9,
+        "tags": [
+            "candles",
+            "scented",
+            "gift",
+            "luxury",
+            "aromatherapy"
+        ]
+    },
+    {
+        "id": "prod_017",
+        "title": "Compact Travel Backpack",
+        "description": "Lightweight 40L travel backpack with laptop compartment and anti-theft features. TSA-approved, perfect for business travel and weekend getaways.",
+        "category": "bags",
+        "brand": "TravelPro",
+        "price": 79.99,
+        "rating": 4.6,
+        "tags": [
+            "backpack",
+            "travel",
+            "laptop",
+            "compact",
+            "business"
+        ]
+    },
+    {
+        "id": "prod_018",
+        "title": "Electric Stand Mixer",
+        "description": "6-quart professional stand mixer with 10 speeds and multiple attachments. Perfect for baking bread, cakes, cookies. Powerful motor for heavy-duty mixing.",
+        "category": "kitchen",
+        "brand": "BakeMaster",
+        "price": 249.99,
+        "rating": 4.7,
+        "tags": [
+            "mixer",
+            "kitchen",
+            "baking",
+            "appliance",
+            "professional"
+        ]
+    },
+    {
+        "id": "prod_019",
+        "title": "Minimalist Wallet",
+        "description": "Slim RFID-blocking wallet with card holders and cash slot. Genuine leather, compact design fits in front pocket. Perfect for minimalists.",
+        "category": "accessories",
+        "brand": "SlimCarry",
+        "price": 34.99,
+        "rating": 4.4,
+        "tags": [
+            "wallet",
+            "minimalist",
+            "rfid",
+            "leather",
+            "compact"
+        ]
+    },
+    {
+        "id": "prod_020",
+        "title": "Indoor Plant Grow Light",
+        "description": "Full-spectrum LED grow light for indoor plants and herbs. Adjustable height, timer function, perfect for plant enthusiasts and indoor gardening.",
+        "category": "home_garden",
+        "brand": "GreenThumb",
+        "price": 54.99,
+        "rating": 4.5,
+        "tags": [
+            "grow-light",
+            "plants",
+            "indoor",
+            "led",
+            "gardening"
+        ]
+    }
+]

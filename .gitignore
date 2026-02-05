@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Elasticsearch
+elasticsearch-data/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+blog_post_temp.md
+*.docx
+*.pdf
+
+# Docker
+.dockerignore
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Project specific
+results/
+outputs/
+checkpoints/
